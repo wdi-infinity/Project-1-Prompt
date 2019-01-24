@@ -69,8 +69,7 @@ Your Tic Tac Toe app must:
 
 
 ## Option B:  Any game you want!
-If you are feeling creative and want to try something new, then go for it!  In order to go this route you must run your idea by Trevor or Jackie first.
-- Proposals are due by EOD today, 11/25.
+If you are feeling creative and want to try something new, then go for it!  In order to go this route you must run your idea by Usman or Michael first.
 - your proposal must include: a summary of your idea, a wire frame ([this](https://wireframe.cc/) is a good site to make wireframnes), what you think the biggest challenges will be.
 - Proposals should be created as "issues" in this repository.
 - Proposals are flexible! You are welcome to update and adjust these as the project continues.
@@ -104,7 +103,7 @@ Need some ideas?  Keep reading!
 ---
 
 ## Necessary Deliverables
-* Projects are due Saturday, 12/1 at midnight!  Submissions should be made as a pull request to THIS REPO. * 
+* Projects are due Saturday, 23/1 at midnight!  Submissions should be made as a pull request to THIS REPO. * 
 
 - A **working game, built by you**, hosted somewhere on the internet
 - A **landing page** with the name of your game, instructions and a start button
