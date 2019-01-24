@@ -103,7 +103,7 @@ Need some ideas?  Keep reading!
 ---
 
 ## Necessary Deliverables
-* Projects are due Saturday, 23/1 at midnight!  Submissions should be made as a pull request to THIS REPO. * 
+* Projects are due Wednesday, 23/1 at midnight!  Submissions should be made as a pull request to THIS REPO. * 
 
 - A **working game, built by you**, hosted somewhere on the internet
 - A **landing page** with the name of your game, instructions and a start button
