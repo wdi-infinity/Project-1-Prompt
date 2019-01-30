@@ -1,0 +1,71 @@
+body {
+    background: url(../project-1/milky-way2.jpg) ;
+}
+
+.topTitle {
+    color : white;
+    text-align: center;
+    font-size: 100px;
+    margin:auto;
+}
+
+h2 {
+    color : white;
+    /*align-items:center;*/
+    font-size: 50px;
+    margin:auto;
+}
+
+table {
+    text-align: center;
+    margin: auto;
+}
+
+td {
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    font-family: Helvetica, sans-serif;
+  }
+
+#message {
+    color : white;
+    text-align: center;
+    font-size: 50px;
+    margin: auto;
+    margin-top: 20px;
+    font-style: italic;
+}
+
+.bottom {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+button {
+  font-size: 50px;
+  font-family:'Crimson Text', serif;
+  margin: 0 auto;
+  display: block;
+  margin-top: 30px;  
+  background-color:silver;
+  color: white;
+  border-radius: 5px;
+}
+
+.cell {
+    font-size: 125px;
+    color: white;
+}
+
+.footer {
+    color : white;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 100px;
+    font-style: italic;
+    flex-shrink: 0;
+      
+}
