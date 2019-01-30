@@ -1,0 +1,53 @@
+body{
+    margin: 0px;
+    margin-top: 10px;
+    background-color:pink;
+    text-align: center;
+
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    padding-top:40px;
+    
+}
+
+h2{
+text-align: center;
+}
+
+.row{
+
+}
+
+.col{
+    display: inline-block;
+    width: 89px;
+    height: 80px;
+    text-align: center;
+    background-color: antiquewhite;
+    margin-top: 2px;
+    padding-top:30px;
+    font-size: 34px;
+}
+#winer{
+    text-align: center;
+
+}
+button{
+    padding:10px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.section1{
+    text-align: center;
+}
+
+#bcolor{
+    background:rgb(168, 165, 165)
+}
+#fpage{
+    background:url(../TicTacToe/photo.jpg);
+    background-size:cover;
+}
