@@ -1,5 +1,5 @@
 body {
-    background: url(../project-1/milky-way2.jpg) ;
+    background: url(milky-way2.jpg) ;
 }
 
 .topTitle {
@@ -8,14 +8,6 @@ body {
     font-size: 100px;
     margin:auto;
 }
-
-h2 {
-    color : white;
-    /*align-items:center;*/
-    font-size: 50px;
-    margin:auto;
-}
-
 table {
     text-align: center;
     margin: auto;
@@ -44,12 +36,13 @@ td {
 a {
     text-decoration: none;
 }
+
 button {
   font-size: 50px;
   font-family:'Crimson Text', serif;
   margin: 0 auto;
   display: block;
-  margin-top: 30px;  
+  margin-top: 45px;  
   background-color:silver;
   color: white;
   border-radius: 5px;
@@ -64,8 +57,6 @@ button {
     color : white;
     text-align: center;
     font-size: 50px;
-    margin-top: 100px;
+    margin-top: 200px;
     font-style: italic;
-    flex-shrink: 0;
-      
 }
